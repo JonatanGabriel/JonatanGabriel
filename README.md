@@ -1,15 +1,20 @@
 ## Olá, Eu sou o Jonatan Gabriel
 
-- 🔭 Trabalho no momento como técnico em TI em um colégio.
-- 💢 Domínio em Python.
-- 📘 Atualmente estou aprimorando meus conhecimentos em Banco de Dados e JavaScript.
-- 😄 Pronomes: Ele/Dele.
+- 🔭 Trabalho no momento como técnico em TI em um colégio estadual.
+- 💢 Habilidades - Python, JavaScript, HTML, CSS
+- 💢 Runtime - Node.js
+- 💢 FrameWork - Django
+- 📘 Sempre buscando aprimorar meus conhecimentos, participando de aulas no youtube e utilizando a plataforma Alura
+- 😄 Meu PortFólio: https://jonatangabriel.github.io/
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 ##
