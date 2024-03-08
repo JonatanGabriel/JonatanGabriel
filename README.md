@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Jonatan Gabriel
 
 - 🔭 Trabalho no momento como técnico em TI em um colégio estadual.
-- 💢 Habilidades - Python, JavaScript, HTML, CSS
+- 💢 Habilidades - Python, JavaScript, HTML, CSS, Java, NoSQL
 - 💢 Runtime - Node.js
 - 💢 FrameWork - Django
 - 📘 Sempre buscando aprimorar meus conhecimentos, participando de aulas no youtube e utilizando a plataforma Alura
