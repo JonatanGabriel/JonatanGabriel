@@ -4,8 +4,9 @@
 - 💢 Habilidades - Git, Python, Java, JavaScript, HTML, CSS, NoSQL
 - 💢 Runtime - Node.js
 - 💢 FrameWork - Django, BootStrap
+- 💢 Sistemas Operacionais - Windows, Linux
+- 💢 Banco de Dados: SQL (básico), NoSQL
 - 📘 Sempre buscando aprimorar meus conhecimentos, participando de aulas no youtube e utilizando a plataforma Alura
-- 😄 Meu PortFólio: https://jonatangabriel.github.io/
 ##
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
